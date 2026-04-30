@@ -52,7 +52,7 @@ npm run dev
 
 ## 🌐 Live Deployment
 
-- **Frontend Application:** [Link to be added after Vercel deployment]
-- **Backend API:** [Link to be added after Railway deployment]
+- **Frontend Application:** []()
+- **Backend API:** [task-manager-backend-production-00e4.up.railway.app](task-manager-backend-production-00e4.up.railway.app)
 
 *Note: The backend is hosted on a free tier, so the initial API request may take up to 30 seconds to wake the server from sleep.*
