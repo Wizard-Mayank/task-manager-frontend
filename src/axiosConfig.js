@@ -1,8 +1,7 @@
-import axios from 'axios';
+import axios from "axios";
 
 const instance = axios.create({
-  baseURL:
-    "task-manager-backend-production-00e4.up.railway.app", // Point to your backend
+  baseURL: "https://task-manager-backend-production-00e4.up.railway.app/api", // Point to your backend
   withCredentials: true, // THIS IS CRUCIAL: It tells Axios to send the JWT cookie
 });
 
